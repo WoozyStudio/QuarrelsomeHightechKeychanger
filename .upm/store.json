@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "languages": {
+    "python-python3-poetry": {
+      "specfileHash": "e77c758a42c36fbb85262c5677fe970b",
+      "lockfileHash": "d8ffc86a307f8894af45573b798f4f7c",
+      "guessedImports": ["flask", "youtube-dl"],
+      "guessedImportsHash": "0a468adbc3add0ea27b77c3ad6421b4f"
+    }
+  }
+}
