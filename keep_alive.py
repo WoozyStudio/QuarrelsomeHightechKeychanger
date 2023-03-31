@@ -4,6 +4,7 @@ import random
 
 
 app = Flask('')
+app = Test('')
 
 @app.route('/')
 def home():
@@ -21,3 +22,4 @@ def keep_alive():
 	'''
 	t = Thread(target=run)
 	t.start()
+	
